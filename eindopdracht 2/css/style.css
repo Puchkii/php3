@@ -1,0 +1,31 @@
+body{
+  background-color: deeppink;
+}
+
+  button{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-style: none;
+    border-radius: 15px;
+  }
+
+  .restart{
+    width:125px;
+    background-color: grey;
+
+  }
+
+  .guessed {
+    background-color: green;
+  }
+
+  .open {
+      background-color: purple;
+  }
+
+  .gewonnen{
+    color: darkcyan;
+  }
